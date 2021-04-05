@@ -5,11 +5,11 @@
 
 ## I'm Denilson!
 
-I am a 21 year old Brazilian programming student. :brazil:	
+ I am a 21 year old Brazilian programming student. :brazil:	
 
-I started my studies in programming in January 2020.:student:	
+ I started my studies in programming in January 2020.:student:	
 
-At the moment I am focused on learning new things and gaining experience in the area.:dart:	
+ At the moment I am focused on learning new things and gaining experience in the area.:dart:	
 
 
 ## About me 

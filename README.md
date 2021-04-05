@@ -1,7 +1,7 @@
 
 <img align="right" width="500" height="400" src=https://i.imgur.com/AflEm7k.gif>
 
-# Welcome! :maple_leaf:		
+# Welcome! :pushpin:	
 
 ## I'm Denilson!
 

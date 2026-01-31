@@ -1,31 +1,45 @@
+# 👋 Olá, eu sou o Denilson Rabelo
 
-<img align="right" width="400" height="280" src=https://i.pinimg.com/originals/29/89/dd/2989dde3aadd54c8e1998ba193bc2fbf.gif>
+🎯 **Software Engineer | Backend | Full Stack**  
+📍 Fortaleza, Ceará – Brasil  
 
-# Welcome! :pushpin:	
+Sou **Engenheiro de Software**, formado pela **Universidade Federal do Ceará (UFC)**, com experiência no desenvolvimento de aplicações modernas, escaláveis e focadas em resolver problemas reais através da tecnologia.
 
-### Hi there, I'm Denilson Rabelo 👩‍💻
+---
 
- I am a 24 year old Brazilian programming student.
+## 🚀 Sobre mim
 
- I started my studies in programming in January 2020.
+Tenho atuação em **todas as etapas do desenvolvimento de software**, desde a **modelagem e arquitetura**, até **implementação, testes, entrega e manutenção**.  
+Possuo experiência sólida tanto em **Back-end** quanto em **Front-end**, sempre aplicando boas práticas de engenharia, código limpo e foco em performance e qualidade.
 
- At the moment I am focused on learning new things and gaining experience in the area.
- 
- ##
- 
- <div>
-  <a href="https://github.com/DenilsonRabelo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DenilsonRabelo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenilsonRabelo&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
- 
- 
- 
- <div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg">
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg">
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg">
-</div>
+Atualmente, trabalho como **Analista Desenvolvedor** e estou sempre em busca de desafios que me permitam evoluir tecnicamente, aprender continuamente e contribuir com produtos inovadores.
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+| Back-end | Front-end | Bancos de Dados | DevOps & Cloud | Outros |
+|--------|-----------|----------------|---------------|--------|
+| Node.js | React | PostgreSQL | CI/CD | Clean Code |
+| NestJS | Angular | MySQL | Docker | SOLID |
+| Java | Vue.js | SQL | AWS | Arquiteturas escaláveis |
+| Spring Boot | HTML | NoSQL | Azure | Boas práticas |
+| C# | CSS |  | Google Cloud | Testes automatizados |
+| .NET | JavaScript |  |  | Interesse em IA |
+
+## 🎓 Formação Acadêmica
+
+🎓 **Universidade Federal do Ceará (UFC)**  
+**Bacharelado em Engenharia de Computação**  
+📅 2020 – 2024
+
+---
+
+## 📫 Contato
+
+- 📧 Email: **denilsonrabelo.dev@gmail.com**
+- 💼 LinkedIn: [linkedin.com/in/denilsonrabelo99](https://www.linkedin.com/in/denilsonrabelo99)
+
+---
+
+⭐ *Sinta-se à vontade para explorar meus repositórios e entrar em contato!*  
